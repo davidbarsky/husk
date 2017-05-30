@@ -1,0 +1,11 @@
+[package]
+name = "husk"
+version = "0.1.0"
+authors = ["David Barsky <me@davidbarsky.com>"]
+
+[dependencies]
+termion = "1.3"
+nix = "0.8.0"
+error-chain = "0.10.0"
+scopeguard = "0.3.2"
+libc = "0.2"
